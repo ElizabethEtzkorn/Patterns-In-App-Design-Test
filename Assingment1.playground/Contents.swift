@@ -15,4 +15,4 @@ name
 age + String(integer)
 var string = "My daughter is "
 integer - integer2
-var paragraph = "My carreer aspirations are anything that does not involved ever using MacStadium again because it has taken me about 30 minutes to write these 20 lines due to the lag time"
+<strong> var paragraph = "My carreer aspirations are anything that does not involved ever using MacStadium again because it has taken me about 30 minutes to write these 20 lines due to the lag time"
